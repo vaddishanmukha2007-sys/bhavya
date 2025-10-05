@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BloomFinder: Global Vegetation Phenology Explorer",
+  "description": "An innovative application using simulated NASA Earth observation data and AI to detect, analyze, and visualize plant blooming events across the globe. Explore trends, gain ecological insights, and forecast future bloom phases with interactive tools.",
+  "requestFramePermissions": []
+}
